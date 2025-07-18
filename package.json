@@ -8,6 +8,7 @@
     "vite": "^4.0.0"
   },
   "scripts": {
+    "starts":"node app.js",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
